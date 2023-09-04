@@ -14,7 +14,7 @@ root.render(
     <Barra />
     <Post tiempo='10' likes=' 300' autor='Baldo' texto='un gran dia en la oficina' comentarios = '1' imagen={logo}/>
     <Post tiempo='25' likes=' 90' autor='Kevin' texto='un gran bello dia en el estadio apoyando al equipo' comentarios = '99' imagen={logo2}/>
-    <Post tiempo='25' likes=' 90' autor='Kevin' texto='un gran bello dia en el estadio apoyando al equipo' comentarios = '99' imagen={logo3}/>
+    <Post tiempo='57' likes=' 80' autor='Ruben' texto='compartir en la oficina' comentarios = '17' imagen={logo3}/>
   </React.StrictMode>
 );
 
